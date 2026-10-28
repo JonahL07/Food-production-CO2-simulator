@@ -52,7 +52,7 @@ farms = {
     "Wheat": {
         "yield_kg": 10,
         "emissions_kg_kg": 0.15,
-        "carbs_g_kg": 20,
+        "carbs_g_kg": 750,
         "protein_g_kg": 125,
         "fat_g_kg": 20,
         "calcium_mg_kg": 500,
